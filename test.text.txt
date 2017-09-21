@@ -1,5 +1,4 @@
-Zero
-one 
+ 
 two
 tree
 44
